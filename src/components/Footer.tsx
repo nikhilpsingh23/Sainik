@@ -12,7 +12,6 @@ const XIcon = () => (
 const Footer = () => {
   return (
     <>
-    // Assuming Poppins font is applied globally in your layout.js or _app.js
     <FooterImg/>
     <section className="bg-[#1C1F22] text-white">
       {/* The container's height is now determined by the inner content and spacing. */}
