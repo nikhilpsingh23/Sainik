@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import SchoolsSection from "@/Pages/HomePage/card";
 import SainikSection from "@/Pages/HomePage/GridSection";
 import HeroSection from "@/Pages/HomePage/Hero";
+import TrustedBySection from "@/Pages/HomePage/logos";
 import NationwideFootprint from "@/Pages/HomePage/map";
 import Testimonials from "@/Pages/HomePage/testimonial";
 import VoicesAndViews from "@/Pages/HomePage/voicenews";
@@ -21,6 +22,7 @@ export default function Home() {
         {/*  <WhyJoinSainikSchool/> */}
         <SainikSection/>
         <VoicesAndViews/>
+        <TrustedBySection/>
         <Testimonials/>
         <Footer/>
       </main>

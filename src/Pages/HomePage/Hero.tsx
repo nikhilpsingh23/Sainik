@@ -64,7 +64,7 @@ export default function HeroSection() {
         </div>
 
         {/* Right Column with Two Scrolling Columns */}
-        <div className="w-1/2 flex gap-[18px]  overflow-hidden h-[750px]">
+        <div className="w-1/2 flex gap-[18px]  overflow-hidden h-[830px]">
           {/* Column 1 */}
           <div className="col-left flex flex-col gap-[18px]">
             {imagesCol1.map((img, index) => (
